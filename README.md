@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Hoàng Thế Duy
-* Student ID: BI12=129
+* Student ID: BI12-129
 * Student Group ID: 8
